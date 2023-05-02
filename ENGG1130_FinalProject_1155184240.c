@@ -6,7 +6,7 @@
  * I declare that the project here submitted is original
  * except for source material explicitly acknowledged,
  * and that the same or closely related material has not been
- * previously submitted for another course.
+ * previously submitted for another course.
  * I also acknowledge that I am aware of University policy and
  * regulations on honesty in academic work, and of the disciplinary
  * guidelines and procedures applicable to breaches of such
@@ -17,9 +17,9 @@
  *
  * Student Name  : Nguyen Ba Minh
  * Student ID    : 1155184240
- * Class/Section : E
- * Date          : 19/04/2023
  */
+
+//This project is built as Notakto game - Tic-tac-toe game with 2 gameboards
 
 #include <stdio.h> 
 #include <stdlib.h>
