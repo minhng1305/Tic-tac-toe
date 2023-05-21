@@ -1,24 +1,3 @@
-/**
- * ENGG1110 Problem Solving by Programming
- *
- * Course Project
- *
- * I declare that the project here submitted is original
- * except for source material explicitly acknowledged,
- * and that the same or closely related material has not been
- * previously submitted for another course.
- * I also acknowledge that I am aware of University policy and
- * regulations on honesty in academic work, and of the disciplinary
- * guidelines and procedures applicable to breaches of such
- * policy and regulations, as contained in the website.
- *
- * University Guideline on Academic Honesty:
- *   https://www.cuhk.edu.hk/policy/academichonesty/
- *
- * Student Name  : Nguyen Ba Minh
- * Student ID    : 1155184240
- */
-
 //This project is built as Notakto game - Tic-tac-toe game with 2 gameboards
 
 #include <stdio.h> 
